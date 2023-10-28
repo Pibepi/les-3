@@ -51,4 +51,30 @@ width: 500px;
   background-image: url(../img/2.jpg);
  background-size: cover;
 }
+.circle{
+ width: 150px;
+height: 10px;
+border-radius: 50%;
 
+} 
+
+
+.section-2{
+  background-color: rgb(192, 187, 187);
+} 
+
+
+.zz7{
+  display: grid;
+  justify-content: center;
+ 
+}
+
+.zz8{
+padding-bottom: 50px;
+ 
+}
+
+.icon1{
+ width: 30px;
+}
