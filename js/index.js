@@ -7,4 +7,10 @@ document.addEventListener('DOMContentLoaded', function() {
     var instances = M.FloatingActionButton.init(elems2, {
       direction:'bottom',
 });
+
+var elems = document.querySelectorAll('.sidenav');
+var instances = M.Sidenav.init(elems, [
+  
+]);
+
   });
